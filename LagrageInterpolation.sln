@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LagrageInterpolation", "LagrageInterpolation\LagrageInterpolation.csproj", "{CCA13AED-AD97-4692-9A56-1F373B730FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{42FFB910-D741-4DB4-9E15-39737A7BF488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCA13AED-AD97-4692-9A56-1F373B730FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA13AED-AD97-4692-9A56-1F373B730FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA13AED-AD97-4692-9A56-1F373B730FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA13AED-AD97-4692-9A56-1F373B730FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FFB910-D741-4DB4-9E15-39737A7BF488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FFB910-D741-4DB4-9E15-39737A7BF488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FFB910-D741-4DB4-9E15-39737A7BF488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FFB910-D741-4DB4-9E15-39737A7BF488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
